@@ -39,6 +39,7 @@ function numOfBeam(width, thickness) {
 function lengthOfWood(length, incline, output) {
     // Ensure inputs are numbers
     length = parseFloat(length);
+    //parse
     incline = parseFloat(incline);
     output = parseFloat(output);
     
